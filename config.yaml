@@ -90,7 +90,7 @@ params:
   pagNotFound:
     # option to specify the main picture of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    image: "/images/avataaars_404.png"
+    image: "/images/469939_avatar_caribbean_dreadlock_face_reggae_icon.png"
     # option to specify the title of the 404 page
     title: 404 Page Not Found :(
     # option to specify the subtitle of the 404 page
@@ -121,11 +121,11 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: name.surname@domain.com
+      link: geoffreyarenner@gmail.com
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: your_linkedin_profile
+      link: https://www.linkedin.com/in/geoffrey-renner-2455b3196
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
@@ -134,9 +134,9 @@ params:
     #   title: Facebook
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
-    # github: 
-    #   link: username
-    #   title: Github
+     github: 
+       link: https://github.com/Geoffrey-A-Renner
+       title: Github
     # option to specify your twitter username in the footer; 
     # **uncomment** the below lines to show in footer
     # twitter: 
@@ -153,7 +153,7 @@ params:
     #    link: username
     #    title: Telegram
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2021
+    copyright: Geoffrey Renner - 2022
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -199,8 +199,8 @@ languages:
         # instagram: 
         #   link: username
         #   title: Instagram
-        # github: 
-        #   link: username
-        #   title: Github
+         github: 
+           link: username
+           title: Github
         copyright: Julia белая краска - 2020
       
